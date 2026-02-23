@@ -1,0 +1,8 @@
+print("=================================================================")
+print("STUDENT BIO BARD")
+print("Name: Amulya BV")
+print("Age: 21 years")
+print("Course: GenAI")
+print("College: Amruta Institute of Engineering and management Sciences")
+print("Email: amulyabvvivek31@gmail.com")
+print("=================================================================")

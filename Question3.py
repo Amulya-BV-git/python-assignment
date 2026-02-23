@@ -1,0 +1,12 @@
+text=input("Enter sentence:")
+words=text.split()
+print("Total Characters with spaces:",len(text))
+print("Total Characters Without spaces:", len(text.replace("", "")))
+print("Words:",len(words))
+print("Upper:",text.upper())
+print("Lower:",text.lower())
+print("title:",text.title())
+if words:
+    print("First:",words[0])
+    print("Last:",words[-1]) 
+print("Reversed:",text[::-1])
